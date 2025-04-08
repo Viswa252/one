@@ -4,3 +4,4 @@ COPY target/*.war /usr/local/tomcat/webapps/myweb.war
 This is visweswara from wintel
 Why VMware team asking us to perform
 boom
+blast the changes
